@@ -1,0 +1,2 @@
+digi-xbee-unofficial==1.4.3
+pyserial==3.5

@@ -49,7 +49,7 @@ def select_comm_port(device_name):
 def main():
     print("STARTING BASIC XBEE LISTENER UTILITY")
 
-    
+
     try:
         print('Attempting to open local_xbee on default port: ', port)
         local_xbee.open()
