@@ -16,4 +16,4 @@ How to install / run:
 - enter `git clone https://github.com/gregcompton/xbeeBasicListener.git`
 - enter `cd xbeeBasicListener`
 - enter `pip install digi-xbee-unofficial`
-- run `python main.py`
+- run `python main.py` if you get an error here, run `python3 main.py`
